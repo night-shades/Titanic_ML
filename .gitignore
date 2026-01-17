@@ -1,0 +1,17 @@
+# virtual env
+.venv/
+
+# caches
+__pycache__/
+*.pyc
+
+# outputs (可再生，不建議上傳)
+models/
+reports/
+
+# editor
+.vscode/
+
+# OS
+Thumbs.db
+.DS_Store
